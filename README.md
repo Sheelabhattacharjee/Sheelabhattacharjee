@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
 
-- 🔭 I’m currently pursuing my B.tech degree in Information Technology from Asansol Engineering College
+- 🔭 I’m Sheela Bhattacharjee,currently pursuing my B.tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/)
 
 - 🌱 I’m currently learning *Java,python,HTML,CSS,Javascript*
 
