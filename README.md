@@ -10,7 +10,7 @@
 - 💬 Ask me about *Java,Web Dev,c++*
 
 
-- 👀 I’m interested in Web development,Reading Books
+- 👀 I’m interested in Web Development,Reading Books
 
 - 💞 I’m looking to collaborate on github
 
